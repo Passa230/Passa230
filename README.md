@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering undergraduate at the University of Pisa<br>🏉 Rugby player<br>🎵 Music enthusiast<br>🚀 Passionate about space robotics
-
+🎓 Computer Engineering undergraduate at the University of Pisa<br>🏉 Rugby player<br>🎵 Music enthusiast
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eneapassardi) 
